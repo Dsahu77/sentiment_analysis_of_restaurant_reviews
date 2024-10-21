@@ -26,6 +26,9 @@ The code of the model is present in the .ipynb file.
 - [Scikit-learn](https://scikit-learn.org/) - For machine learning model handling.
 - [Pickle](https://docs.python.org/3/library/pickle.html) - For loading the pre-trained model and vectorizer.
 
+  ## Link to the streamlit website
+  [Website Link](https://dsahu77-sentiment-analysis-of-restaurant-reviews-app-gxyhev.streamlit.app/)
+
 ## Installation
 
 To set up the project on your local machine, follow these steps:
