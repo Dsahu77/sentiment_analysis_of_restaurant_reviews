@@ -7,11 +7,7 @@ The code of the model is present in the .ipynb file.
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Installation](#installation)
-- [Usage](#usage)
-- [How It Works](#how-it-works)
-- [Contributing](#contributing)
-- [License](#license)
+- [Link to the streamlit website](#usage)
 
 ## Features
 
@@ -29,11 +25,3 @@ The code of the model is present in the .ipynb file.
   ## Link to the streamlit website
   [Website Link](https://dsahu77-sentiment-analysis-of-restaurant-reviews-app-gxyhev.streamlit.app/)
 
-## Installation
-
-To set up the project on your local machine, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd <repository-directory>
