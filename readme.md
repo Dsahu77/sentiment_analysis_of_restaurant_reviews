@@ -1,6 +1,6 @@
 # Sentiment Analysis of Restaurant Reviews
 
-This is a Streamlit application for performing sentiment analysis on restaurant reviews using a pre-trained machine learning model. The application allows users to input a review and receive a sentiment prediction (Positive or Negative).
+This is a Streamlit application for performing sentiment analysis on restaurant reviews using a machine learning model trained by me. The application allows users to input a review and receive a sentiment prediction (Positive or Negative).
 The code of the model is present in the .ipynb file.
 
 ## Table of Contents
